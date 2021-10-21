@@ -1,0 +1,6 @@
+div.scrollmenu {
+  background-color: pink;
+  overflow: auto;
+  white-space: nowrap;
+  border-style: solid;
+}
